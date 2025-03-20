@@ -1,0 +1,296 @@
+data_momPE
+#
+_chem_comp.id momPE
+_chem_comp.name PE
+_chem_comp.type non-polymer
+_chem_comp.formula ?
+_chem_comp.mon_nstd_parent_comp_id ?
+_chem_comp.pdbx_synonyms ?
+_chem_comp.formula_weight ?
+#
+loop_
+_chem_comp_atom.comp_id                  
+_chem_comp_atom.atom_id                  
+_chem_comp_atom.type_symbol              
+_chem_comp_atom.type_energy              
+_chem_comp_atom.partial_charge           
+_chem_comp_atom.charge                   
+_chem_comp_atom.pdbx_leaving_atom_flag       
+_chem_comp_atom.pdbx_model_Cartn_x_ideal                       
+_chem_comp_atom.pdbx_model_Cartn_y_ideal                       
+_chem_comp_atom.pdbx_model_Cartn_z_ideal                       
+momPE   C1 C  CH1  0.159  0 N   0.146  0.214  0.865
+momPE   C2 C  CH2  0.096  0 N  -0.093  1.643  1.289
+momPE   O3 O   OP -0.314  0 N  -0.095  2.497  0.125
+momPE   P4 P    P  0.268  0 N  -0.563  4.016  0.256
+momPE   O5 O   OP -0.756 -1 N  -0.407  4.462  1.661
+momPE   O6 O   OP -0.312  0 N   0.533  4.720 -0.668
+momPE   C7 C  CH2  0.104  0 N   0.907  6.104 -0.447
+momPE   C8 C  CH2  0.098  0 N  -0.175  7.094 -0.771
+momPE   N9 N  NT3 -0.356  1 N  -0.811  6.786 -2.078
+momPE  O10 O   OP -0.276  0 N  -1.880  4.149 -0.403
+momPE  O11 O   OC -0.456  0 N   1.535  0.085  0.421
+momPE  C12 C    C  0.306  0 N   2.476 -0.245  1.325
+momPE  C13 C  CH2  0.046  0 N   3.830 -0.338  0.684
+momPE  C14 C  CH2 -0.043  0 N   4.601  0.975  0.740
+momPE  C15 C  CH2 -0.053  0 N   5.956  0.914  0.042
+momPE  C16 C  CH2 -0.053  0 N   7.086  0.236  0.812
+momPE  C17 C  CH2 -0.053  0 N   7.712  1.091  1.908
+momPE  C18 C  CH2 -0.050  0 N   8.828  0.409  2.689
+momPE  C19 C  CH2 -0.035  0 N  10.185  0.392  1.981
+momPE  C20 C   C1 -0.089  0 N  11.271 -0.206  2.830
+momPE  C21 C   C1 -0.089  0 N  11.596 -1.485  2.964
+momPE  C22 C  CH2 -0.035  0 N  10.956 -2.684  2.315
+momPE  C23 C  CH2 -0.050  0 N  11.760 -3.240  1.137
+momPE  C24 C  CH2 -0.053  0 N  11.709 -2.388 -0.123
+momPE  C25 C  CH2 -0.053  0 N  12.424 -3.020 -1.310
+momPE  C26 C  CH2 -0.053  0 N  12.318 -2.237 -2.612
+momPE  C27 C  CH2 -0.054  0 N  13.280 -1.059 -2.728
+momPE  C28 C  CH2 -0.056  0 N  13.140 -0.249 -4.009
+momPE  C29 C  CH3 -0.065  0 N  13.810 -0.887 -5.213
+momPE  O30 O    O -0.252  0 N   2.256 -0.434  2.493
+momPE  C31 C  CH2  0.131  0 N  -0.737 -0.200 -0.285
+momPE  O32 O   OC -0.462  0 N  -2.090  0.233 -0.011
+momPE  C33 C    C  0.305  0 N  -3.037 -0.093 -0.896
+momPE  C34 C  CH2  0.046  0 N  -4.380  0.427 -0.472
+momPE  C35 C  CH2 -0.043  0 N  -5.391 -0.675 -0.180
+momPE  C36 C  CH2 -0.053  0 N  -5.034 -1.502  1.049
+momPE  C37 C  CH2 -0.053  0 N  -6.127 -2.450  1.531
+momPE  C38 C  CH2 -0.053  0 N  -6.356 -3.685  0.667
+momPE  C39 C  CH2 -0.050  0 N  -7.610 -3.661 -0.201
+momPE  C40 C  CH2 -0.035  0 N  -8.808 -4.433  0.362
+momPE  C41 C   C1 -0.089  0 N  -9.445 -3.796  1.567
+momPE  C42 C   C1 -0.089  0 N -10.342 -2.820  1.597
+momPE  C43 C  CH2 -0.035  0 N -10.961 -2.095  0.435
+momPE  C44 C  CH2 -0.050  0 N -12.181 -2.825 -0.133
+momPE  C45 C  CH2 -0.053  0 N -12.765 -2.208 -1.398
+momPE  C46 C  CH2 -0.053  0 N -13.527 -0.904 -1.196
+momPE  C47 C  CH2 -0.053  0 N -12.813  0.330 -1.735
+momPE  C48 C  CH2 -0.054  0 N -13.606  1.626 -1.630
+momPE  C49 C  CH2 -0.056  0 N -13.616  2.254 -0.245
+momPE  C50 C  CH3 -0.065  0 N -14.337  3.586 -0.210
+momPE  O51 O    O -0.252  0 N  -2.833 -0.723 -1.901
+momPE   H1 H HCH1  0.081  0 N  -0.086 -0.453  1.699
+momPE  H2A H HCH2  0.061  0 N   0.727  1.989  1.922
+momPE  H2B H HCH2  0.061  0 N  -1.011  1.748  1.873
+momPE  H7A H HCH2  0.063  0 N   1.761  6.298 -1.101
+momPE  H7B H HCH2  0.063  0 N   1.243  6.245  0.583
+momPE  H8A H HCH2  0.095  0 N  -0.974  7.087 -0.025
+momPE  H8B H HCH2  0.095  0 N   0.225  8.108 -0.845
+momPE  H9A H HNT3  0.344  0 N  -0.122  6.590 -2.816
+momPE  H9B H HNT3  0.344  0 N  -1.530  7.447 -2.398
+momPE  H9C H HNT3  0.344  0 N  -1.259  5.868 -1.958
+momPE H13A H HCH2  0.039  0 N   4.361 -1.131  1.218
+momPE H13B H HCH2  0.039  0 N   3.706 -0.675 -0.349
+momPE H14A H HCH2  0.027  0 N   4.708  1.315  1.773
+momPE H14B H HCH2  0.027  0 N   4.000  1.743  0.246
+momPE H15A H HCH2  0.027  0 N   6.261  1.937 -0.191
+momPE H15B H HCH2  0.027  0 N   5.838  0.401 -0.916
+momPE H16A H HCH2  0.027  0 N   6.752 -0.713  1.239
+momPE H16B H HCH2  0.027  0 N   7.852 -0.025  0.078
+momPE H17A H HCH2  0.027  0 N   6.954  1.370  2.644
+momPE H17B H HCH2  0.027  0 N   8.086  2.024  1.478
+momPE H18A H HCH2  0.027  0 N   8.524 -0.615  2.923
+momPE H18B H HCH2  0.027  0 N   8.933  0.921  3.648
+momPE H19A H HCH2  0.031  0 N  10.105 -0.117  1.017
+momPE H19B H HCH2  0.031  0 N  10.475  1.418  1.738
+momPE  H20 H  HC1  0.057  0 N  11.849  0.514  3.397
+momPE  H21 H  HC1  0.057  0 N  12.425 -1.717  3.620
+momPE H22A H HCH2  0.031  0 N  10.896 -3.465  3.077
+momPE H22B H HCH2  0.031  0 N   9.924 -2.512  2.002
+momPE H23A H HCH2  0.027  0 N  11.380 -4.238  0.906
+momPE H23B H HCH2  0.027  0 N  12.802 -3.369  1.443
+momPE H24A H HCH2  0.027  0 N  12.159 -1.413  0.081
+momPE H24B H HCH2  0.027  0 N  10.666 -2.205 -0.391
+momPE H25A H HCH2  0.027  0 N  13.480 -3.160 -1.065
+momPE H25B H HCH2  0.027  0 N  12.011 -4.017 -1.483
+momPE H26A H HCH2  0.027  0 N  12.496 -2.948 -3.423
+momPE H26B H HCH2  0.027  0 N  11.295 -1.876 -2.740
+momPE H27A H HCH2  0.027  0 N  14.311 -1.413 -2.643
+momPE H27B H HCH2  0.027  0 N  13.122 -0.369 -1.896
+momPE H28A H HCH2  0.026  0 N  12.083 -0.078 -4.229
+momPE H28B H HCH2  0.026  0 N  13.587  0.735 -3.850
+momPE H29A H HCH3  0.023  0 N  14.867 -1.077 -5.014
+momPE H29B H HCH3  0.023  0 N  13.741 -0.219 -6.075
+momPE H29C H HCH3  0.023  0 N  13.329 -1.829 -5.487
+momPE H31A H HCH2  0.075  0 N  -0.670 -1.285 -0.397
+momPE H31B H HCH2  0.075  0 N  -0.399  0.227 -1.233
+momPE H34A H HCH2  0.039  0 N  -4.264  1.050  0.419
+momPE H34B H HCH2  0.039  0 N  -4.745  1.064 -1.281
+momPE H35A H HCH2  0.027  0 N  -6.369 -0.211 -0.031
+momPE H35B H HCH2  0.027  0 N  -5.459 -1.324 -1.057
+momPE H36A H HCH2  0.027  0 N  -4.125 -2.082  0.869
+momPE H36B H HCH2  0.027  0 N  -4.811 -0.824  1.876
+momPE H37A H HCH2  0.027  0 N  -7.053 -1.897  1.706
+momPE H37B H HCH2  0.027  0 N  -5.814 -2.813  2.514
+momPE H38A H HCH2  0.027  0 N  -6.408 -4.560  1.321
+momPE H38B H HCH2  0.027  0 N  -5.487 -3.842  0.022
+momPE H39A H HCH2  0.027  0 N  -7.900 -2.640 -0.462
+momPE H39B H HCH2  0.027  0 N  -7.336 -4.137 -1.146
+momPE H40A H HCH2  0.031  0 N  -9.546 -4.559 -0.435
+momPE H40B H HCH2  0.031  0 N  -8.506 -5.451  0.621
+momPE  H41 H  HC1  0.057  0 N  -9.120 -4.193  2.521
+momPE  H42 H  HC1  0.057  0 N -10.680 -2.495  2.574
+momPE H43A H HCH2  0.031  0 N -10.230 -1.895 -0.352
+momPE H43B H HCH2  0.031  0 N -11.256 -1.114  0.816
+momPE H44A H HCH2  0.027  0 N -11.894 -3.852 -0.373
+momPE H44B H HCH2  0.027  0 N -12.961 -2.889  0.630
+momPE H45A H HCH2  0.027  0 N -13.470 -2.939 -1.803
+momPE H45B H HCH2  0.027  0 N -11.984 -2.090 -2.153
+momPE H46A H HCH2  0.027  0 N -14.480 -0.987 -1.725
+momPE H46B H HCH2  0.027  0 N -13.771 -0.778 -0.138
+momPE H47A H HCH2  0.027  0 N -12.577  0.176 -2.791
+momPE H47B H HCH2  0.027  0 N -11.853  0.470 -1.231
+momPE H48A H HCH2  0.027  0 N -14.634  1.448 -1.954
+momPE H48B H HCH2  0.027  0 N -13.185  2.342 -2.341
+momPE H49A H HCH2  0.026  0 N -14.101  1.586  0.472
+momPE H49B H HCH2  0.026  0 N -12.587  2.401  0.093
+momPE H50A H HCH3  0.023  0 N -15.378  3.467 -0.519
+momPE H50B H HCH3  0.023  0 N -14.324  3.988  0.806
+momPE H50C H HCH3  0.023  0 N -13.857  4.309 -0.874
+#
+loop_
+_chem_comp_bond.comp_id                             
+_chem_comp_bond.atom_id_1                           
+_chem_comp_bond.atom_id_2                           
+_chem_comp_bond.value_order                                
+_chem_comp_bond.pdbx_aromatic_flag                            
+_chem_comp_bond.value_dist_nucleus                  
+_chem_comp_bond.value_dist_nucleus_esd              
+_chem_comp_bond.value_dist                          
+_chem_comp_bond.value_dist_esd                      
+_chem_comp_bond.source_value_dist_nucleus           
+_chem_comp_bond.source_value_dist_nucleus_esd       
+_chem_comp_bond.source_value_dist                   
+_chem_comp_bond.source_value_dist_esd               
+momPE  C1   C2 SING N 1.505 0.020 1.505 0.020  Mogul_mean_313_hits     Mogul_sd  Mogul_mean_313_hits Mogul_sd
+momPE  C2   O3 SING N 1.443 0.015 1.443 0.015  Mogul_mean_156_hits     Mogul_sd  Mogul_mean_156_hits Mogul_sd
+momPE  O3   P4 SING N 1.595 0.015 1.595 0.015   Mogul_mean_40_hits     Mogul_sd   Mogul_mean_40_hits Mogul_sd
+momPE  P4   O5 SING N 1.482 0.011 1.482 0.011  Mogul_mean_332_hits     Mogul_sd  Mogul_mean_332_hits Mogul_sd
+momPE  P4   O6 SING N 1.595 0.015 1.595 0.015   Mogul_mean_40_hits     Mogul_sd   Mogul_mean_40_hits Mogul_sd
+momPE  O6   C7 SING N 1.449 0.016 1.449 0.016  Mogul_mean_167_hits     Mogul_sd  Mogul_mean_167_hits Mogul_sd
+momPE  C7   C8 SING N 1.502 0.010 1.502 0.010   Mogul_mean_25_hits     Mogul_sd   Mogul_mean_25_hits Mogul_sd
+momPE  C8   N9 SING N 1.486 0.015 1.486 0.015 Mogul_mean_1449_hits     Mogul_sd Mogul_mean_1449_hits Mogul_sd
+momPE  P4  O10 DOUB N 1.479 0.014 1.479 0.014  Mogul_mean_332_hits     Mogul_sd  Mogul_mean_332_hits Mogul_sd
+momPE  C1  O11 SING N 1.461 0.013 1.461 0.013  Mogul_mean_901_hits     Mogul_sd  Mogul_mean_901_hits Mogul_sd
+momPE O11  C12 SING N 1.341 0.015 1.341 0.015  Mogul_mean_616_hits     Mogul_sd  Mogul_mean_616_hits Mogul_sd
+momPE C12  C13 SING N 1.501 0.014 1.501 0.014 Mogul_mean_1118_hits     Mogul_sd Mogul_mean_1118_hits Mogul_sd
+momPE C13  C14 SING N 1.523 0.017 1.523 0.017 Mogul_mean_2514_hits     Mogul_sd Mogul_mean_2514_hits Mogul_sd
+momPE C14  C15 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C15  C16 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C16  C17 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C17  C18 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C18  C19 SING N 1.527 0.023 1.527 0.023  Mogul_mean_372_hits     Mogul_sd  Mogul_mean_372_hits Mogul_sd
+momPE C19  C20 SING N 1.497 0.023 1.497 0.023  Mogul_mean_569_hits     Mogul_sd  Mogul_mean_569_hits Mogul_sd
+momPE C20  C21 DOUB N 1.318 0.020 1.318 0.020  Mogul_mean_459_hits     Mogul_sd  Mogul_mean_459_hits Mogul_sd
+momPE C21  C22 SING N 1.497 0.023 1.497 0.023  Mogul_mean_569_hits     Mogul_sd  Mogul_mean_569_hits Mogul_sd
+momPE C22  C23 SING N 1.527 0.023 1.527 0.023  Mogul_mean_372_hits     Mogul_sd  Mogul_mean_372_hits Mogul_sd
+momPE C23  C24 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C24  C25 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C25  C26 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C26  C27 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C27  C28 SING N 1.519 0.023 1.519 0.023  Mogul_mean_798_hits     Mogul_sd  Mogul_mean_798_hits Mogul_sd
+momPE C28  C29 SING N 1.514 0.030 1.514 0.030  Mogul_mean_965_hits     Mogul_sd  Mogul_mean_965_hits Mogul_sd
+momPE C12  O30 DOUB N 1.202 0.014 1.202 0.014 Mogul_mean_1933_hits     Mogul_sd Mogul_mean_1933_hits Mogul_sd
+momPE  C1  C31 SING N 1.505 0.020 1.505 0.020  Mogul_mean_313_hits     Mogul_sd  Mogul_mean_313_hits Mogul_sd
+momPE C31  O32 SING N 1.446 0.011 1.446 0.011 Mogul_mean_2070_hits     Mogul_sd Mogul_mean_2070_hits Mogul_sd
+momPE O32  C33 SING N 1.334 0.015 1.334 0.015 Mogul_mean_1484_hits     Mogul_sd Mogul_mean_1484_hits Mogul_sd
+momPE C33  C34 SING N 1.501 0.014 1.501 0.014 Mogul_mean_1118_hits     Mogul_sd Mogul_mean_1118_hits Mogul_sd
+momPE C34  C35 SING N 1.523 0.017 1.523 0.017 Mogul_mean_2514_hits     Mogul_sd Mogul_mean_2514_hits Mogul_sd
+momPE C35  C36 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C36  C37 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C37  C38 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C38  C39 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C39  C40 SING N 1.527 0.023 1.527 0.023  Mogul_mean_372_hits     Mogul_sd  Mogul_mean_372_hits Mogul_sd
+momPE C40  C41 SING N 1.497 0.023 1.497 0.023  Mogul_mean_569_hits     Mogul_sd  Mogul_mean_569_hits Mogul_sd
+momPE C41  C42 DOUB N 1.318 0.020 1.318 0.020  Mogul_mean_459_hits     Mogul_sd  Mogul_mean_459_hits Mogul_sd
+momPE C42  C43 SING N 1.497 0.023 1.497 0.023  Mogul_mean_569_hits     Mogul_sd  Mogul_mean_569_hits Mogul_sd
+momPE C43  C44 SING N 1.527 0.023 1.527 0.023  Mogul_mean_372_hits     Mogul_sd  Mogul_mean_372_hits Mogul_sd
+momPE C44  C45 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C45  C46 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C46  C47 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C47  C48 SING N 1.521 0.019 1.521 0.019 Mogul_mean_1546_hits     Mogul_sd Mogul_mean_1546_hits Mogul_sd
+momPE C48  C49 SING N 1.519 0.023 1.519 0.023  Mogul_mean_798_hits     Mogul_sd  Mogul_mean_798_hits Mogul_sd
+momPE C49  C50 SING N 1.514 0.030 1.514 0.030  Mogul_mean_965_hits     Mogul_sd  Mogul_mean_965_hits Mogul_sd
+momPE C33  O51 DOUB N 1.202 0.014 1.202 0.014 Mogul_mean_1933_hits     Mogul_sd Mogul_mean_1933_hits Mogul_sd
+momPE  C1   H1 SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C2  H2A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C2  H2B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C7  H7A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C7  H7B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C8  H8A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  C8  H8B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  N9  H9A SING N 1.028 0.020 0.883 0.020  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  N9  H9B SING N 1.028 0.020 0.883 0.020  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE  N9  H9C SING N 1.028 0.020 0.883 0.020  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C13 H13A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C13 H13B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C14 H14A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C14 H14B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C15 H15A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C15 H15B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C16 H16A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C16 H16B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C17 H17A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C17 H17B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C18 H18A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C18 H18B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C19 H19A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C19 H19B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C20  H20 SING N 1.083 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C21  H21 SING N 1.083 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C22 H22A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C22 H22B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C23 H23A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C23 H23B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C24 H24A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C24 H24B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C25 H25A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C25 H25B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C26 H26A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C26 H26B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C27 H27A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C27 H27B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C28 H28A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C28 H28B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C29 H29A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C29 H29B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C29 H29C SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C31 H31A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C31 H31B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C34 H34A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C34 H34B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C35 H35A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C35 H35B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C36 H36A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C36 H36B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C37 H37A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C37 H37B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C38 H38A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C38 H38B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C39 H39A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C39 H39B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C40 H40A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C40 H40B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C41  H41 SING N 1.083 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C42  H42 SING N 1.083 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C43 H43A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C43 H43B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C44 H44A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C44 H44B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C45 H45A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C45 H45B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C46 H46A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C46 H46B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C47 H47A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C47 H47B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C48 H48A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C48 H48B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C49 H49A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C49 H49B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C50 H50A SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C50 H50B SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+momPE C50 H50C SING N 1.093 0.020 0.979 0.015  MMFF94s_equilibrium default_to_H               ecloud   ecloud
+#
+_pdbx_chem_comp_descriptor.type SMILES
+_pdbx_chem_comp_descriptor.descriptor '[H][C@@](COP([O-])(OCC[NH3+])=O)(OC(CCCCCCC/C=C\\CCCCCCCC)=O)COC(CCCCCCC/C=C\\CCCCCCCC)=O'
