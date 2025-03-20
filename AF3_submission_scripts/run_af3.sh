@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -e -p 'Input json file:' jsonfile
-if [ ! -f "$pdbfile" ] 
+if [ ! -f "$jsonfile" ] 
 then
     echo -e "\nERROR: File (${jsonfile}) does not exist. Run again." 
     exit 1
