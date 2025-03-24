@@ -1,13 +1,18 @@
 #!/bin/bash
 
-read -e -p 'Input json file:' jsonfile
+read -e -p 'Input json file: ' jsonfile
 if [ ! -f "$jsonfile" ] 
 then
     echo -e "\nERROR: File (${jsonfile}) does not exist. Run again." 
     exit 1
 fi
+
+# make aname for the model
 modelname="${jsonfile%.*}"
 
-export jsonfile modelname
+# Extract the value of "name" and store it in a variable
+namevalue=$(jq -r '.name' "$json_file")
+
+export jsonfile modelname namevalue
 features=$(sbatch --parsable --export=jsonfile,modelname features.sh)
 sbatch --export=jsonfile,modelname --dependency=afterok:$features inference.sh
