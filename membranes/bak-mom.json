@@ -1,10 +1,10 @@
 {
-  "name": "bak-mom",
+  "name": "protein-mom",
   "sequences": [
     {
       "protein": {
         "id": ["A", "B"],
-        "sequence": "TLPLQPSSTMGQVGRQLAIIGDDINRRYDSEFQTMLQHLQPTAENAYEYFTKIATSLFESGINWGRVVALLGFGYRLALHVYQHGLTGFLGQVTRFVVDFMLHHCIARWIAQRGGWVAALNLGNGPILNVLVVLGVVLLGQFVVRRFFKS"
+        "sequence": "TLPLQPSSTMG"
       }
     },
     {
