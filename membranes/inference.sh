@@ -10,5 +10,5 @@
 #SBATCH -o AF3_logs/%x_%j.out
 
 module load alphafold/3.0.0
-alphafold3 -c -i ${modelname}/${modelname}/${modelname}_data.json -o ${modelname}-inference
+alphafold3 -c -i ${modelname}/${namevalue}/${namevalue}_data.json -o ${modelname}-inference
 
