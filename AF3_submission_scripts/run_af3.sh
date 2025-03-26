@@ -11,7 +11,7 @@ fi
 modelname="${jsonfile%.*}"
 
 # Extract the value of "name" and store it in a variable
-namevalue=$(jq -r '.name' "$json_file")
+namevalue=$(jq -r '.name' "$jsonfile")
 
 export jsonfile modelname namevalue
 features=$(sbatch --parsable --export=jsonfile,modelname features.sh)
