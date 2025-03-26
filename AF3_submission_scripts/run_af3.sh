@@ -15,4 +15,4 @@ namevalue=$(jq -r '.name' "$jsonfile")
 
 export jsonfile modelname namevalue
 features=$(sbatch --parsable --export=jsonfile,modelname features.sh)
-sbatch --export=jsonfile,modelname --dependency=afterok:$features inference.sh
+sbatch --export=jsonfile,modelname,namevalue --dependency=afterok:$features inference.sh
